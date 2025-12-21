@@ -7,4 +7,8 @@
 4. Run backend.py to ensure everything is in place.
 5. Run app.py
 
+
 Create builds as per your need!
+pip install Pillow requests matplotlib reportlab numpy pandas
+pip install pandas numpy joblib
+pip install scikit-learn
