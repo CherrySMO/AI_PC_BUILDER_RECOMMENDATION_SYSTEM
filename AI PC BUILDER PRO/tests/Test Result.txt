@@ -1,0 +1,24 @@
+[✓] Loaded ML model for Gaming: rf_gaming.pkl
+[✓] Loaded ML model for Workstation: rf_workstation.pkl
+[✓] Loaded ML model for Content Creation: rf_content_creation.pkl
+[✓] Loaded ML model for Home Office: rf_home_office.pkl
+[✓] Loaded ML model for General Use: rf_general_use.pkl
+
+Tested Budget: $2000, Build Cost: $560
+.[✓] Loaded ML model for Gaming: rf_gaming.pkl
+[✓] Loaded ML model for Workstation: rf_workstation.pkl
+[✓] Loaded ML model for Content Creation: rf_content_creation.pkl
+[✓] Loaded ML model for Home Office: rf_home_office.pkl
+[✓] Loaded ML model for General Use: rf_general_use.pkl
+.[✓] Loaded ML model for Gaming: rf_gaming.pkl
+[✓] Loaded ML model for Workstation: rf_workstation.pkl
+[✓] Loaded ML model for Content Creation: rf_content_creation.pkl
+[✓] Loaded ML model for Home Office: rf_home_office.pkl
+[✓] Loaded ML model for General Use: rf_general_use.pkl
+
+GUI launched successfully.
+.
+----------------------------------------------------------------------
+Ran 3 tests in 4.218s
+
+OK
