@@ -7,7 +7,7 @@ import joblib
 # IMPORTANT: This BASE_PATH should point to where your CSV data files and ML models are stored.
 # If they are in a subfolder named 'data' relative to where this backend.py file is,
 # then 'data' is correct. Otherwise, adjust this path.
-BASE_PATH = r"C:\Users\Cantt Computer\project ai" # Ensure this path is correct
+BASE_PATH = os.path.join(os.path.dirname(__file__), "data") # Ensure this path is correct
 PART_FILES = {
     "CPU": "CPU.csv",
     "GPU": "GPU.csv",
