@@ -1,5 +1,7 @@
 SCREENSHOT:
 <img width="1360" height="768" alt="image" src="https://github.com/user-attachments/assets/0822e482-2212-42ca-928d-98cfabe05bd1" />
+
+INSTRUCTIONS:
 1. Set base path in all 4 codes. Datasets can be found in the data folder.
 2. Run datasetcreationformodel.py
 -check a new file of 2700 builds named scenario_pc_builds to be created in the same directory.(adjust path)
